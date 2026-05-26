@@ -24,14 +24,13 @@ const About = () => {
                 {/* Content section */}
                 <div className="flex-1">
                   <p className="text-lg text-gray-300 leading-relaxed">
-                    I am a motivated UI/UX Designer and Frontend Developer with
-                    a strong foundation in design principles and MERN stack
-                    development. I have the ability to understand user needs,
-                    think critically, and create intuitive, visually appealing
-                    interfaces. I am passionate about designing clean,
-                    responsive, and user-centered digital experiences that solve
-                    real-world problems while delivering seamless functionality
-                    and improved user experience.
+                    I am a motivated Data Analyst with a strong foundation in
+                    data analysis, visualization, and problem-solving. I have
+                    the ability to interpret complex data, identify meaningful
+                    insights, and support data-driven decision-making. Skilled
+                    in Python, SQL, Excel, and Power BI, I am passionate about
+                    transforming raw data into clear, actionable information
+                    through interactive dashboards and analytical solutions.
                   </p>
                 </div>
               </div>

@@ -2,14 +2,22 @@
 const Experience = () => {
   const experiences = [
     {
-      title: "MERN Stack Intern",
-      company: "Sangam Soft Solutions",
-      duration: "1 Month",
-      description: "Developed full-stack web applications using MongoDB, Express.js, React, and Node.js.",
-      color: "from-blue-500 to-purple-600"
+      title: "Machine Learning Intern",
+      company: "CodSoft",
+      duration: "June 2024 – July 2024",
+      description:
+        "Developed and enhanced a face detection application using machine learning techniques, improving model accuracy and optimizing system performance.",
+      color: "from-blue-500 to-purple-600",
     },
-    
-    
+
+    {
+      title: "Associate Trainee",
+      company: "VISTA Engg Solutions Private Limited",
+      duration: "April 2026 – May 2026",
+      description:
+        "Performed LiDAR frame data annotation by accurately labeling objects to support AI/ML dataset preparation and quality validation.",
+      color: "from-pink-500 to-purple-600",
+    },
   ];
 
   return (

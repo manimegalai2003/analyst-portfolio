@@ -6,7 +6,7 @@ const Hero = () => {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [currentRole, setCurrentRole] = useState(0);
 
-  const roles = [ "UI/UX Designer", "MERN Stack Developer"];
+  const roles = ["Data Analyst"];
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -91,21 +91,15 @@ const Hero = () => {
         >
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed mb-6">
             Passionate{" "}
-            <span className="text-purple-400 font-semibold">
-              UI/UX Designer
-            </span>{" "}
-            and{" "}
-            <span className="text-purple-400 font-semibold">
-              MERN Stack Developer
-            </span>{" "}
-            focused on building{" "}
-            <span className="text-purple-400 font-semibold">modern</span>,{" "}
-            <span className="text-purple-400 font-semibold">responsive</span>,
-            and user-friendly web applications. Skilled in{" "}
-            <span className="text-purple-400 font-semibold">React.js</span>,{" "}
-            <span className="text-purple-400 font-semibold">Node.js</span>, and{" "}
-            <span className="text-purple-400 font-semibold">JavaScript</span>,
-            with a strong understanding of modern web technologies.
+            <span className="text-purple-400 font-semibold">Data Analyst</span>{" "}
+            focused on transforming raw data into meaningful insights and
+            interactive visualizations. Skilled in{" "}
+            <span className="text-purple-400 font-semibold">Python</span>,{" "}
+            <span className="text-purple-400 font-semibold">SQL</span>,{" "}
+            <span className="text-purple-400 font-semibold">Excel</span>, and{" "}
+            <span className="text-purple-400 font-semibold">Power BI</span>,
+            with a strong understanding of data analysis, reporting, and
+            problem-solving.
           </p>
         </div>
 
@@ -161,7 +155,7 @@ const Hero = () => {
             <div className="absolute inset-0 rounded-full bg-purple-400/20 opacity-0 group-hover:opacity-100 transition-opacity blur-xl"></div>
           </a>
           <a
-            href="https://www.linkedin.com/in/manimegalai-s-bbb0102a9"
+            href="https://www.linkedin.com/in/manimegalai-sekar/"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative p-4 rounded-full bg-white/5 border border-white/10 hover:border-purple-400/50 transition-all duration-300 transform hover:scale-110 hover:rotate-6"
