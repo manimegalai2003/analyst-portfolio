@@ -89,20 +89,18 @@ const Hero = () => {
           className="mb-12 animate-fade-in"
           style={{ animationDelay: "0.6s" }}
         >
-         <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed mb-6">
-  Passionate{" "}
-  <span className="text-purple-400 font-semibold">Data Analyst</span> and{" "}
-  <span className="text-purple-400 font-semibold">Data Annotation Professional</span>{" "}
-  focused on transforming raw data into meaningful insights and building
-  high-quality AI datasets. Skilled in{" "}
-  <span className="text-purple-400 font-semibold">Python</span>,{" "}
-  <span className="text-purple-400 font-semibold">SQL</span>,{" "}
-  <span className="text-purple-400 font-semibold">Excel</span>,{" "}
-  <span className="text-purple-400 font-semibold">Power BI</span>,{" "}
-  <span className="text-purple-400 font-semibold">Text Annotation</span>, and{" "}
-  <span className="text-purple-400 font-semibold">3D LiDAR Annotation</span>,
-  with a strong understanding of data analysis, visualization, reporting, and
-  AI dataset preparation.
+        <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-9 mb-6">
+  <span className="text-purple-400 font-semibold">Data Analyst</span> &
+  <span className="text-purple-400 font-semibold"> Data Annotation Professional</span>
+  <br />
+  Building AI-ready datasets and transforming data into meaningful insights.
+  <br />
+  <span className="text-purple-400 font-semibold">Python</span> •
+  <span className="text-purple-400 font-semibold"> SQL</span> •
+  <span className="text-purple-400 font-semibold"> Excel</span> •
+  <span className="text-purple-400 font-semibold"> Power BI</span> •
+  <span className="text-purple-400 font-semibold"> Text Annotation</span> •
+  <span className="text-purple-400 font-semibold"> 3D LiDAR Annotation</span>
 </p>
         </div>
 
