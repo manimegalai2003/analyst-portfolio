@@ -6,7 +6,7 @@ const Hero = () => {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [currentRole, setCurrentRole] = useState(0);
 
-  const roles = ["Data Analyst"];
+  const roles = ["Data Analyst", "Data Annotation"];
 
   useEffect(() => {
     const interval = setInterval(() => {
