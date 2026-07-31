@@ -24,13 +24,7 @@ const About = () => {
                 {/* Content section */}
                 <div className="flex-1">
                   <p className="text-lg text-gray-300 leading-relaxed">
-                    I am a motivated Data Analyst with a strong foundation in
-                    data analysis, visualization, and problem-solving. I have
-                    the ability to interpret complex data, identify meaningful
-                    insights, and support data-driven decision-making. Skilled
-                    in Python, SQL, Excel, and Power BI, I am passionate about
-                    transforming raw data into clear, actionable information
-                    through interactive dashboards and analytical solutions.
+                   I am a motivated Data Analyst and Data Annotation professional with hands-on experience in text annotation, 3D LiDAR annotation, and data analysis. Skilled in Python, SQL, Excel, and Power BI, I enjoy transforming raw data into meaningful insights while building high-quality datasets for AI and data-driven solutions.
                   </p>
                 </div>
               </div>
