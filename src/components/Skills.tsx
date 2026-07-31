@@ -27,9 +27,8 @@ const Skills = () => {
       category: "Data Annotation",
       icon: ScanLine,
       skills: [
-        { name: "Text Annotation", level: 90 },
+        { name: "Text Annotation", level: 95 },
         { name: "3D LiDAR Annotation", level: 85 },
-        { name: "Polygon Annotation", level: 75 },
         { name: "Video Annotation", level: 75 },
         { name: "Quality Validation", level: 80 },
       ],
@@ -42,9 +41,8 @@ const Skills = () => {
       skills: [
         { name: "GT Studio", level: 85 },
         { name: "CVAT", level: 75 },
-        { name: "Cuboid Annotation", level: 85 },
-        { name: "Object Labeling", level: 85 },
-        { name: "Dataset Preparation", level: 80 },
+        { name: "Amazon SageMaker", level: 95 },
+ 
       ],
       color: "from-emerald-500 to-teal-600",
       bgGradient: "from-emerald-500/20 to-teal-600/20",
