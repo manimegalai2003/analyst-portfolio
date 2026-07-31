@@ -5,7 +5,7 @@ const Education = () => {
       institution: "KGiSL Institute of Technology",
       degree: "B.Tech in Artificial Intelligence and Data Science",
       period: "2023 – 2026",
-      grade: "CGPA: 8.45",
+      grade: "CGPA: 8.24",
       location: "Coimbatore"
     },
     {
