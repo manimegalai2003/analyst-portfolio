@@ -2,11 +2,11 @@
 const Experience = () => {
   const experiences = [
     {
-      title: "Machine Learning Intern",
-      company: "CodSoft",
-      duration: "June 2024 – July 2024",
+      title: "Process Associate",
+      company: "Han Digital Solution P Ltd",
+      duration: "June 2026 – Aug 2026",
       description:
-        "Developed and enhanced a face detection application using machine learning techniques, improving model accuracy and optimizing system performance.",
+        "Performed text data annotation for AI/LLM training datasets by accurately labeling and categorizing data according to project guidelines. Contributed to AI/LLM model training through accurate and consistent text annotation.",
       color: "from-blue-500 to-purple-600",
     },
 
@@ -15,7 +15,7 @@ const Experience = () => {
       company: "VISTA Engg Solutions Private Limited",
       duration: "April 2026 – May 2026",
       description:
-        "Performed LiDAR frame data annotation by accurately labeling objects to support AI/ML dataset preparation and quality validation.",
+        "Performed 3D LiDAR frame annotation by accurately labeling objects with cuboids to create high-quality datasets for AI/ML model training.",
       color: "from-pink-500 to-purple-600",
     },
   ];
